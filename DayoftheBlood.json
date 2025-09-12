@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1757197108,
+	"Version": 1757681585,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -641,7 +641,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"26"
+				"26",
+				"50"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
