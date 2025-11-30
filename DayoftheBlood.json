@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1758878134,
+	"Version": 1764499617,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -134,6 +134,7 @@
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
 				"170",
+				"181",
 				"151",
 				"220"
 			],
@@ -177,12 +178,14 @@
 				"21",
 				"24",
 				"246",
+				"273",
 				"34",
 				"36",
 				"38",
 				"39",
 				"279",
 				"280",
+				"44",
 				"261",
 				"50",
 				"54",
@@ -190,9 +193,8 @@
 				"61",
 				"69",
 				"76",
-				"80",
 				"89",
-				"96",
+				"95",
 				"92",
 				"102",
 				"109",
@@ -396,7 +398,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"36",
 				"38",
+				"67",
 				"110"
 			],
 			"SurvivorComboPerkBans": [],
@@ -801,7 +805,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -919,7 +923,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"16"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -994,7 +998,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"16"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1281,6 +1285,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"65",
 				"95",
 				"112"
 			],
@@ -1337,7 +1342,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -1811,7 +1816,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2000,7 +2005,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -2070,7 +2075,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"19"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -2185,7 +2190,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2379,15 +2384,15 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"50"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2599,17 +2604,18 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"279"
+				"279",
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2669,7 +2675,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -2817,10 +2823,12 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
