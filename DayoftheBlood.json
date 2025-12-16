@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1764534614,
+	"Version": 1765897520,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -998,7 +998,9 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"220"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
@@ -2529,8 +2531,14 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			],
 			"SurvivorIndvPerkBans": [
+				"246",
 				"279"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2676,7 +2684,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2876,6 +2889,9 @@
 			"KillerOfferings": [
 				5
 			]
+		}
+	]
+}
 		}
 	]
 }
