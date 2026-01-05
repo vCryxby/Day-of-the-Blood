@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1765897520,
+	"Version": 1767571231,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -456,7 +456,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"11"
+				"22"
 			],
 			"BalanceTiers": [
 				0,
@@ -629,7 +629,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"50"
 			],
 			"BalanceTiers": [
 				0,
@@ -987,7 +987,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"11"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1263,7 +1263,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1333,7 +1333,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -1403,7 +1403,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1925,7 +1925,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -1996,7 +1996,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -2374,7 +2374,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"34"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2446,7 +2446,7 @@
 			"KillerNotes": "Special Items from the Lich are not to be used",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2519,7 +2519,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"50"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -2596,7 +2596,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -2748,7 +2748,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"22"
 			],
 			"BalanceTiers": [
 				0,
