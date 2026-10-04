@@ -1,13 +1,16 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1767571231,
+	"Version": 1791109874,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "Be aware of the Cross Ping balancing and that Killers are able to have mulitple maps",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
-				"3",
+				"306",
+				"0",
+				"285",
+				"5",
 				"6",
 				"52",
 				"7",
@@ -19,19 +22,23 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
+				"73",
 				"22",
+				"23",
+				"25",
 				"60",
-				"27",
+				"301",
+				"28",
 				"286",
 				"288",
 				"33",
-				"40",
-				"43",
-				"268",
-				"267",
+				"108",
+				"303",
 				"46",
 				"49",
+				"51",
 				"294",
 				"262",
 				"55",
@@ -39,32 +46,45 @@
 				"252",
 				"59",
 				"289",
+				"62",
+				"64",
 				"66",
 				"67",
-				"73",
+				"269",
 				"74",
 				"295",
 				"77",
-				"80",
+				"79",
+				"81",
+				"82",
 				"83",
 				"84",
 				"86",
 				"88",
 				"90",
 				"96",
-				"296",
-				"98",
+				"99",
 				"100",
+				"103",
 				"275",
+				"105",
 				"106",
+				"110",
+				"263",
 				"113",
 				"260",
+				"114",
+				"302",
 				"116",
+				"305",
 				"290",
 				"287",
+				"119",
 				"120",
-				"124",
+				"122",
 				"126",
+				"304",
+				"128",
 				"254",
 				"130"
 			],
@@ -73,8 +93,11 @@
 				"133",
 				"134",
 				"136",
+				"245",
 				"138",
+				"315",
 				"147",
+				"148",
 				"149",
 				"150",
 				"153",
@@ -83,29 +106,36 @@
 				"163",
 				"244",
 				"168",
+				"169",
 				"171",
 				"173",
 				"174",
 				"175",
+				"299",
 				"177",
-				"277",
-				"291",
 				"178",
+				"180",
 				"183",
+				"316",
 				"264",
+				"185",
 				"186",
 				"265",
 				"256",
 				"195",
+				"198",
+				"161",
 				"204",
 				"278",
 				"205",
+				"208",
 				"284",
-				"209",
 				"211",
-				"292",
+				"212",
 				"216",
 				"218",
+				"219",
+				"223",
 				"225",
 				"227",
 				"235",
@@ -113,15 +143,20 @@
 				"293",
 				"242"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"78",
+					"36"
+				],
+				[
+					"80",
+					"36"
+				]
+			],
 			"KillerComboPerkBans": [
 				[
 					"159",
 					"226"
-				],
-				[
-					"170",
-					"220"
 				],
 				[
 					"277",
@@ -135,8 +170,8 @@
 			"KillerIndvPerkBans": [
 				"170",
 				"181",
-				"151",
-				"220"
+				"317",
+				"151"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
@@ -146,28 +181,28 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
+				"279",
+				"43",
 				"280",
 				"261",
 				"69",
 				"76",
+				"80",
 				"89",
+				"296",
 				"102",
 				"109",
-				"110",
 				"253",
 				"121",
 				"127",
-				"128"
+				"36"
 			],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [
-				[
-					"50",
-					"92"
-				]
+			"KillerIndvPerkBans": [
+				"170",
+				"181"
 			],
+			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
 		{
@@ -179,29 +214,32 @@
 				"246",
 				"273",
 				"34",
-				"36",
 				"38",
 				"39",
 				"279",
+				"43",
 				"280",
 				"44",
 				"261",
+				"308",
 				"50",
+				"319",
 				"54",
 				"57",
 				"61",
 				"69",
 				"76",
+				"80",
 				"89",
-				"95",
+				"296",
 				"92",
 				"102",
 				"109",
-				"110",
+				"111",
 				"253",
 				"121",
 				"127",
-				"128"
+				"36"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -211,45 +249,47 @@
 			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"300",
 				"8",
-				"10",
 				"21",
 				"24",
 				"246",
+				"27",
 				"273",
 				"34",
-				"36",
 				"38",
 				"39",
 				"279",
+				"43",
 				"280",
 				"44",
 				"261",
-				"51",
+				"307",
+				"308",
+				"50",
+				"319",
 				"54",
-				"56",
 				"57",
 				"61",
-				"64",
 				"65",
 				"69",
+				"72",
 				"76",
-				"85",
-				"281",
+				"80",
 				"89",
 				"95",
-				"97",
+				"296",
 				"92",
 				"102",
 				"107",
 				"109",
-				"110",
 				"111",
 				"112",
 				"253",
+				"118",
 				"121",
 				"127",
-				"128"
+				"36"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -307,10 +347,12 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -323,9 +365,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"50"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -378,26 +418,29 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"3",
+				"6",
+				"31"
 			],
 			"BalanceTiers": [
 				0,
-				1
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				1
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
-				"67"
+				"80",
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -456,7 +499,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"22"
+				"0",
+				"4",
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -468,7 +513,9 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"181",
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -531,15 +578,19 @@
 		{
 			"Name": "The Shape",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -551,14 +602,27 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				99,
+				94,
+				98,
+				96
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -573,8 +637,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Hag",
@@ -629,7 +700,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"50"
+				"8",
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -643,8 +716,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"26",
-				"50"
+				"26"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -793,10 +865,12 @@
 		},
 		{
 			"Name": "The Nightmare",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Sloppy Butcher is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"19",
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -910,10 +984,12 @@
 		},
 		{
 			"Name": "The Clown",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"19",
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -929,9 +1005,7 @@
 				"213"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"112"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -984,18 +1058,20 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "Cross-Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"19",
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -1010,10 +1086,14 @@
 				"58",
 				"63",
 				"64",
+				"68",
 				"78",
+				"80",
 				"82",
+				"96",
 				"103",
-				"115"
+				"115",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1073,35 +1153,52 @@
 		},
 		{
 			"Name": "The Legion",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"19",
+				"49",
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"4"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				278,
+				262
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1116,15 +1213,24 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Plague",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"50"
+				"0",
+				"4",
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1193,10 +1299,12 @@
 		},
 		{
 			"Name": "The Ghost Face",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"20"
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -1209,9 +1317,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"50"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1263,7 +1369,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"8",
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -1277,8 +1385,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"65",
-				"112"
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1330,10 +1437,12 @@
 		},
 		{
 			"Name": "The Oni",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -1403,6 +1512,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"0",
+				"4",
 				"5"
 			],
 			"BalanceTiers": [
@@ -1516,10 +1627,12 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "",
+			"KillerNotes": "Cross-Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"3",
+				"6",
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -1532,7 +1645,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"142"
+				"142",
+				"181",
+				"220"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -1756,35 +1871,52 @@
 		},
 		{
 			"Name": "The Cenobite",
-			"KillerNotes": "",
-			"IsDisabled": true,
+			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"101"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				497,
+				498
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -1799,15 +1931,24 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Artist",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"0",
+				"4",
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1821,7 +1962,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"112"
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1922,10 +2063,12 @@
 		},
 		{
 			"Name": "The Dredge",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"32"
+				"20",
+				"32",
+				"34"
 			],
 			"BalanceTiers": [
 				0,
@@ -1996,7 +2139,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"0",
+				"4",
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -2065,7 +2210,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"2"
 			],
@@ -2180,7 +2325,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"33"
 			],
@@ -2300,7 +2445,7 @@
 		{
 			"Name": "The Good Guy",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"20"
 			],
@@ -2371,10 +2516,12 @@
 		},
 		{
 			"Name": "The Unknown",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"8",
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -2387,9 +2534,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"50"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2443,27 +2588,25 @@
 		},
 		{
 			"Name": "The Lich",
-			"KillerNotes": "Special Items from the Lich are not to be used",
+			"KillerNotes": "Special Items from the Lich are not to be used\n\nCross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
+				"19",
+				"49",
 				"33"
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8",
-				"65",
-				"112"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2516,10 +2659,12 @@
 		},
 		{
 			"Name": "The Dark Lord",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"42"
+				"3",
+				"6",
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -2538,8 +2683,7 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
-				"246",
-				"279"
+				"246"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2553,8 +2697,8 @@
 				738
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2594,7 +2738,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -2669,10 +2813,12 @@
 		},
 		{
 			"Name": "The Ghoul",
-			"KillerNotes": "",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed and a brown medkit with no add ons is allowed",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"3",
+				"6",
+				"31"
 			],
 			"BalanceTiers": [
 				0,
@@ -2746,7 +2892,7 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"22"
 			],
@@ -2818,7 +2964,7 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"2"
 			],
@@ -2889,6 +3035,192 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The First",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed and a brown medkit with no add ons is allowed",
+			"IsDisabled": false,
+			"Map": [
+				"3",
+				"6",
+				"31"
+			],
+			"BalanceTiers": [
+				0,
+				2
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				2
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				844,
+				852,
+				853,
+				854,
+				855,
+				856,
+				857,
+				858
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
