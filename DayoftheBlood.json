@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1791109874,
+	"Version": 1791915528,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Be aware of the Cross Ping balancing and that Killers are able to have mulitple maps",
 	"Tiers": [
@@ -16,6 +16,7 @@
 				"7",
 				"258",
 				"11",
+				"12",
 				"13",
 				"16",
 				"17",
@@ -86,6 +87,7 @@
 				"304",
 				"128",
 				"254",
+				"129",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -107,6 +109,7 @@
 				"244",
 				"168",
 				"169",
+				"283",
 				"171",
 				"173",
 				"174",
@@ -121,6 +124,7 @@
 				"185",
 				"186",
 				"265",
+				"194",
 				"256",
 				"195",
 				"198",
@@ -161,6 +165,10 @@
 				[
 					"277",
 					"213"
+				],
+				[
+					"317",
+					"157"
 				]
 			]
 		},
@@ -209,6 +217,7 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"9",
 				"21",
 				"24",
 				"246",
@@ -251,6 +260,7 @@
 				"1",
 				"300",
 				"8",
+				"9",
 				"21",
 				"24",
 				"246",
@@ -987,9 +997,11 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
+				"8",
 				"19",
 				"49",
-				"33"
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
