@@ -1,6 +1,6 @@
 {
 	"Name": "Day of the Blood",
-	"Version": 1791965338,
+	"Version": 1792682458,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Be aware of the Cross Ping balancing and that Killers are able to have mulitple maps",
 	"Tiers": [
@@ -1086,9 +1086,7 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
