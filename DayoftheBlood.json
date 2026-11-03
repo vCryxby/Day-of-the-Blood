@@ -1,8 +1,8 @@
 {
-	"Name": "Day of the Blood",
-	"Version": 1792682458,
+	"Name": "Arcadia League",
+	"Version": 1793643496,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Be aware of the Cross Ping balancing and that Killers are able to have mulitple maps",
+	"GlobalNotes": "Cross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- EU vs NAW\n- SA vs NAW\n- SA vs EU",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -29,7 +29,6 @@
 				"22",
 				"23",
 				"25",
-				"60",
 				"301",
 				"28",
 				"286",
@@ -63,7 +62,6 @@
 				"86",
 				"88",
 				"90",
-				"96",
 				"99",
 				"100",
 				"103",
@@ -178,7 +176,6 @@
 			"KillerIndvPerkBans": [
 				"170",
 				"181",
-				"317",
 				"151"
 			],
 			"SurvivorComboPerkBans": [],
@@ -188,6 +185,7 @@
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
 				"21",
+				"60",
 				"34",
 				"38",
 				"279",
@@ -198,6 +196,7 @@
 				"76",
 				"80",
 				"89",
+				"96",
 				"296",
 				"102",
 				"109",
@@ -220,6 +219,7 @@
 				"9",
 				"21",
 				"24",
+				"60",
 				"246",
 				"273",
 				"34",
@@ -240,6 +240,7 @@
 				"76",
 				"80",
 				"89",
+				"96",
 				"296",
 				"92",
 				"102",
@@ -263,6 +264,7 @@
 				"9",
 				"21",
 				"24",
+				"60",
 				"246",
 				"27",
 				"273",
@@ -288,6 +290,7 @@
 				"80",
 				"89",
 				"95",
+				"96",
 				"296",
 				"92",
 				"102",
@@ -360,9 +363,7 @@
 			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
-				"34"
+				"30"
 			],
 			"BalanceTiers": [
 				0,
@@ -431,9 +432,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"3",
-				"6",
-				"31"
+				"3"
 			],
 			"BalanceTiers": [
 				0,
@@ -447,8 +446,10 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"60",
 				"38",
 				"80",
+				"96",
 				"127",
 				"36"
 			],
@@ -509,9 +510,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"4",
-				"5"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
@@ -528,7 +527,10 @@
 				"220"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"60",
+				"96"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -590,9 +592,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
-				"34"
+				"32"
 			],
 			"BalanceTiers": [
 				0,
@@ -710,9 +710,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"33",
-				"54"
+				"28"
 			],
 			"BalanceTiers": [
 				0,
@@ -878,9 +876,7 @@
 			"KillerNotes": "Cross Ping Balancing: Sloppy Butcher is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"19",
-				"49",
-				"33"
+				"19"
 			],
 			"BalanceTiers": [
 				0,
@@ -997,11 +993,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"19",
-				"49",
-				"33",
-				"54"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -1073,9 +1065,7 @@
 			"KillerNotes": "Cross-Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"19",
-				"49",
-				"33"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1086,7 +1076,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"317"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
@@ -1102,8 +1094,7 @@
 				"82",
 				"96",
 				"103",
-				"115",
-				"36"
+				"115"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1115,8 +1106,7 @@
 				253,
 				254,
 				255,
-				256,
-				257
+				256
 			],
 			"ItemWhitelist": [
 				0,
@@ -1166,8 +1156,6 @@
 			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"19",
-				"49",
 				"33"
 			],
 			"BalanceTiers": [
@@ -1238,9 +1226,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"4",
-				"5"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1263,11 +1249,7 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				279,
-				297,
-				298
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				5,
 				0
@@ -1312,9 +1294,7 @@
 			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
-				"34"
+				"20"
 			],
 			"BalanceTiers": [
 				0,
@@ -1379,9 +1359,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"33",
-				"54"
+				"5"
 			],
 			"BalanceTiers": [
 				0,
@@ -1450,9 +1428,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
-				"34"
+				"41"
 			],
 			"BalanceTiers": [
 				0,
@@ -1522,9 +1498,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"4",
-				"5"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -1640,9 +1614,7 @@
 			"KillerNotes": "Cross-Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"3",
-				"6",
-				"31"
+				"4"
 			],
 			"BalanceTiers": [
 				0,
@@ -1656,8 +1628,7 @@
 			"KillerIndvPerkBans": [
 				"132",
 				"142",
-				"181",
-				"220"
+				"181"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -1908,10 +1879,7 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				497,
-				498
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
 				5
@@ -1956,9 +1924,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"4",
-				"5"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
@@ -2076,8 +2042,6 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"20",
-				"32",
 				"34"
 			],
 			"BalanceTiers": [
@@ -2149,9 +2113,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0",
-				"4",
-				"5"
+				"9"
 			],
 			"BalanceTiers": [
 				0,
@@ -2174,10 +2136,7 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [
-				577,
-				578
-			],
+			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
 				5
@@ -2529,9 +2488,7 @@
 			"KillerNotes": "Cross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"8",
-				"33",
-				"54"
+				"33"
 			],
 			"BalanceTiers": [
 				0,
@@ -2601,9 +2558,7 @@
 			"KillerNotes": "Special Items from the Lich are not to be used\n\nCross Ping Balancing: Flow state and Desperate measures are allowed",
 			"IsDisabled": false,
 			"Map": [
-				"19",
-				"49",
-				"33"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -2672,9 +2627,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed",
 			"IsDisabled": false,
 			"Map": [
-				"3",
-				"6",
-				"31"
+				"16"
 			],
 			"BalanceTiers": [
 				0,
@@ -2826,9 +2779,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed and a brown medkit with no add ons is allowed",
 			"IsDisabled": false,
 			"Map": [
-				"3",
-				"6",
-				"31"
+				"1"
 			],
 			"BalanceTiers": [
 				0,
@@ -3102,9 +3053,7 @@
 			"KillerNotes": "Cross Ping Balancing: Eruption is not allowed and a brown medkit with no add ons is allowed",
 			"IsDisabled": false,
 			"Map": [
-				"3",
-				"6",
-				"31"
+				"8"
 			],
 			"BalanceTiers": [
 				0,
